@@ -3,3 +3,6 @@ body { background:lightpink;
 h1 { color:rgb(191, 147, 247);
      text-align: center;
 }
+h2 { color:rgb(191, 147, 247);
+     text-align: left;
+}
