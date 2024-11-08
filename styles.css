@@ -14,3 +14,8 @@ h3 { color:#f74d77;
     font-family:Sour Gummy
      
 }
+.container{ display:flex;
+           flex-direction:row-reverse;
+           justify-content:center;
+           align-self:center;
+}
