@@ -2,10 +2,15 @@ body { background:lightpink;
      } 
 h1 { color:rgb(191, 147, 247);
      text-align: center;
+    font-family:Sour Gummy
+
 }
 h2 { color:rgb(191, 147, 247);
      text-align: left;
+    font-family:Sour Gummy
+
 }
-h3 { color:pink;  
+h3 { color:pink; 
+    font-family:Sour Gummy
      
 }
